@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907787151380",
+    "project_id": "quizz-learn-vue",
+    "storage_bucket": "quizz-learn-vue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907787151380:android:21ca2af70509ffa0661f01",
+        "android_client_info": {
+          "package_name": "com.quizlearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907787151380-8f565cn21tqdain7tlou4ro7colieic8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAywWMossHd_5bg8pj8wUeQ0jpAK3XhzRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907787151380-8f565cn21tqdain7tlou4ro7colieic8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

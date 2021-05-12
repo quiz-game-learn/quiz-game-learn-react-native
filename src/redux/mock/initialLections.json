@@ -1,0 +1,128 @@
+[
+  {
+    "id": "lec1",
+    "type": "string",
+    "title": "Lection 1",
+    "subtitle": "lection",
+    "description": "this is the lection One",
+    "difficulty": "medium",
+    "initialQuiz": {
+      "id": "qz1_initiall1__",
+      "type": "string",
+      "title": "Lection 1 initial",
+      "subtitle": "subtitle",
+      "description": "this is the lection One quiz",
+      "difficultyPercent": 10,
+      "quizType": "INITIAL",
+      "questions": [
+        {
+          "type": "MULTIOPTION_TEST",
+          "questionText": "1 Please choose the right option",
+          "answerOptions": [
+            "answer 1",
+            "answer 2",
+            "answer 3"
+          ],
+          "correctAnswers": [
+            0
+          ],
+          "tips": [
+            "tip"
+          ],
+          "explanation": "this is the explanation"
+        },
+        {
+          "type": "MULTIOPTION_TEST",
+          "questionText": "2 Please choose the right option",
+          "answerOptions": [
+            "answer 1",
+            "answer 2",
+            "answer 3"
+          ],
+          "correctAnswers": [
+            0
+          ],
+          "tips": [
+            "tip"
+          ],
+          "explanation": "this is the explanation"
+        },
+        {
+          "type": "MULTIOPTION_TEST",
+          "questionText": "3 Please choose the right option",
+          "answerOptions": [
+            "answer 1",
+            "answer 2",
+            "answer 3"
+          ],
+          "correctAnswers": [
+            0
+          ],
+          "tips": [
+            "tip"
+          ],
+          "explanation": "this is the explanation"
+        }
+      ],
+      "public": true,
+      "date": null
+    },
+    "finalQuiz": {
+      "id": "qzfinall1",
+      "type": "string",
+      "title": "Lection 1 final",
+      "subtitle": "subtitle",
+      "description": "this is the lection One quiz",
+      "difficultyPercent": 10,
+      "quizType": "FINAL",
+      "questions": [
+        {
+          "type": "MULTIOPTION_TEST",
+          "questionText": "Please choose the right option",
+          "answerOptions": [
+            "answer 1",
+            "answer 2",
+            "answer 3"
+          ],
+          "correctAnswers": [
+            0
+          ],
+          "tips": [
+            "tip"
+          ],
+          "explanation": "this is the explanation"
+        }
+      ],
+      "public": true,
+      "date": null
+    },
+    "parts": [
+      "part1",
+      "part2"
+    ]
+  },
+  {
+    "id": "lec2",
+    "type": "MULTIOPTION_TEST",
+    "title": "Lection 2",
+    "subtitle": "lection",
+    "description": "this is the lection One",
+    "difficulty": "medium",
+    "parts": [
+      "part1",
+      "part2"
+    ]
+  },
+  {
+    "id": "lec3",
+    "type": "string",
+    "title": "Lection 3",
+    "subtitle": "lection",
+    "description": "this is the lection three",
+    "difficulty": "medium",
+    "parts": [
+      "part1",
+      "part2"
+    ]
+  }
+]

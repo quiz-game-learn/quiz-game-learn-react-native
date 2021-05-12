@@ -1,0 +1,28 @@
+[{
+  "type": "string",
+  "title": "Lection 1 quiz",
+  "subtitle": "subtitle",
+  "description": "this is the lection One quiz",
+  "difficulty": "string",
+  "quizType": "INITIAL",
+  "questions": [
+    {
+      "type": "string",
+      "questionText": "Please choose the right option",
+      "answerOptions": [
+        "answer 1",
+        "answer 2",
+        "answer 3"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "tips": [
+        "tip"
+      ],
+      "explanation": "this is the explanation"
+    }
+  ],
+  "public": true,
+  "date": null
+}]
